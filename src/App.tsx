@@ -55,7 +55,7 @@ const achievements = [
   {
     title: '2nd Place – SansiCup',
     subtitle: 'Competitive programming contest',
-    image: '/public/1703041296026.jpg',
+    image: '/1703041296026.jpg',
   },
   {
     title: 'Microsoft Certified: AZ-900',
@@ -70,12 +70,12 @@ const achievements = [
   {
     title: 'Active Member – Python La Paz',
     subtitle: 'Tech community contributor and participant',
-    image: '/public/Banner.format-webp-lossless.webp',
+    image: '/Banner.format-webp-lossless.webp',
   },
   {
     title: 'Event Organizer – PyDay Bolivia',
     subtitle: 'National Python and tech event',
-    image: '/public/Screenshot 2025-06-10 004337.png',
+    image: '/Screenshot 2025-06-10 004337.png',
   },
   {
     title: 'Bronze Medal – Bolivian Olympiad in Informatics',
@@ -181,7 +181,7 @@ function App() {
                     style={{ borderRadius: 8, overflow: "hidden" }}
                   >
                     <Image
-                      src="/public/photo_2025-06-09_23-28-12.jpg"
+                      src="/photo_2025-06-09_23-28-12.jpg"
                       alt="Visual Designer"
                       w="100%"
                       h="100%"
